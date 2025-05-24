@@ -118,7 +118,9 @@ footer a.contactar {
 footer a.contactar:hover {
   background-color: #e64a19;
 }
-
+p.politica-privacidad-texto {
+  color: red,
+    }
 
 @media (max-width: 768px) {
   .autos {
